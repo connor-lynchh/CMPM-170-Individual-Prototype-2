@@ -84,4 +84,4 @@ function update() {
     end("GAME OVER");
   }
 }
-addEventListener("load", onLoad);
+addEventListener("load", onload);
